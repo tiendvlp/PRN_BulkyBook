@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Category\" />
+    <None Remove="DIHelper\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CategoryMvcController\" />
+    <Folder Include="DIHelper\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BulkyBook.Models\BulkyBook.Models.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\BulkyBook.Utility\BulkyBook.Utility.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\BulkyBook.DataAccess\BulkyBook.DataAccess.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

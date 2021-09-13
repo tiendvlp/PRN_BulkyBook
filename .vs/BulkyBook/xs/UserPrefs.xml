@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{9EF45A6D-CBE1-45F1-81E4-031F8386A401}|Default">
+  <MonoDevelop.Ide.ItemProperties.BulkyBook PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBook.DataAccess/Data/Repositories/IRepository/IUnitOfWork.cs">
+    <Files>
+      <File FileName="BulkyBook.MvcController/CategoryMvcController/CategoryMvcController.cs" Line="4" Column="1" />
+      <File FileName="BulkyBook/appsettings.json" Line="10" Column="2" />
+      <File FileName="BulkyBook/Program.cs" Line="34" Column="77" />
+      <File FileName="BulkyBook/wwwroot/js/category.js" Line="11" Column="60" />
+      <File FileName="BulkyBook.AppApi/Startup.cs" Line="16" Column="2" />
+      <File FileName="BulkyBook/Areas/Admin/Controllers/CategoryController.cs" Line="21" Column="10" />
+      <File FileName="BulkyBook.DataAccess/Data/Repositories/IRepository/IUnitOfWork.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BulkyBook" expanded="True">
+            <Node name="BulkyBook" expanded="True">
+              <Node name="Areas" expanded="True" />
+            </Node>
+            <Node name="BulkyBook.AppApi" expanded="True" />
+            <Node name="BulkyBook.DataAccess" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Repositories" expanded="True">
+                  <Node name="IRepository" expanded="True">
+                    <Node name="IUnitOfWork.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

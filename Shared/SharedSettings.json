@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "BulkyBook": "Server=127.0.0.1,1433;Database=BulkyBook;User=SA;Password=Password789;Trusted_Connection=False;MultipleActiveResultSets=True"
+  }
+}
